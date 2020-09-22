@@ -113,9 +113,3 @@ module Reggora
 
   end
 end
-
-Important endy's ->
-  Create order
-  Webhook for order creation
-  Webhook for
-  Get submission appraisal data
