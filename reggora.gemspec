@@ -4,7 +4,7 @@ $:.unshift(File.join(File.dirname(__FILE__), 'lib'))
 require "reggora/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "reggora"
+  spec.name          = "reggora-ruby"
   spec.version       = Reggora::Version::VERSION
   spec.authors       = ["James Dullaghan"]
   spec.email         = ["support@realvestor.io"]
