@@ -22,7 +22,10 @@ module Reggora
     end
 
     def self.authorize(username:, password:)
-      Reggora::Resources::Auth.new(username: username, password: password).authorize
+      Reggora::Resources::Auth.new(
+        username: username,
+        password: password
+      ).authorize
     end
 
     # Get all loans

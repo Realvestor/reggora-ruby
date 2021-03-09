@@ -25,4 +25,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "webmock", "~> 1.2"
   spec.add_development_dependency "coveralls", "~> 0.8.13"
   spec.add_development_dependency "simplecov", "~> 0.11.0"
+  spec.add_development_dependency "pry"
 end
